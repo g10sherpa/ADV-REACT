@@ -1,0 +1,12 @@
+nav{
+  background-color:mediumvioletred;
+  padding: 15px;
+
+}
+
+nav a{
+  color: antiquewhite;
+  text-decoration: none;
+  font-size: 18px;
+
+}

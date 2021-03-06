@@ -1,0 +1,16 @@
+.card{
+    width: 300px;
+    border: 2px solid grey;
+    margin: 15px;
+    padding: 10px;
+    padding-right: 35px;
+    box-shadow: 0 0 10px purple;
+    display: inline-block;
+    border-radius: 20px;
+    background-color:palevioletred;
+}
+
+.card-img{
+    width: inherit;
+    border-radius: 10px;
+}
