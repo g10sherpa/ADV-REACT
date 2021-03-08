@@ -1,0 +1,7 @@
+Props => transfer a data from parent to child
+      => read-only
+      => this.props.name
+
+State => component maintains its own data
+      => updateable
+      => this.state.name
